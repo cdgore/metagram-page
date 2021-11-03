@@ -1,4 +1,4 @@
 Metagr.am
 =========================
 
-[metagr.am](http://metagr.am)
+[metagr.am](https://metagr.am)
