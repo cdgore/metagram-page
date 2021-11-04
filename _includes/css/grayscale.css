@@ -271,16 +271,16 @@ textarea:focus, input:focus {
     line-height: 1.5;
     text-align: left;
     width: 100%;
+    font-weight: normal;
 }
 
 .form-box {
-    margin: 0 0 25px;
+    margin: 0 0 5px;
     font-size: 18px;
     line-height: 1.5;
     text-align: left;
     width: 260px;
-    margin-left: -130px;
-    left: 50%;
+    margin: auto;
 }
 
 .download-section {
