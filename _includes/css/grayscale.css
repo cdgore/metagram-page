@@ -266,7 +266,7 @@ textarea:focus, input:focus {
 }
 
 .form-text {
-    margin-top: 25px;
+    margin-bottom: 5px;
     font-size: 18px;
     padding: 0px;
     line-height: 1.5;
