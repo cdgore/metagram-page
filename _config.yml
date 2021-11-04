@@ -1,7 +1,7 @@
 # Site settings
 title: metagr.am
 email: cdgore@cdgore.com
-url: https://cdgore.github.io/
+url: https://metagr.am
 description: ""
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -15,7 +15,7 @@ footer: Metagr.am
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/cdgore
+    url: https://twitter.com/metagr_am
   # - title: facebook
   #   url:
   # - title: stack-overflow
